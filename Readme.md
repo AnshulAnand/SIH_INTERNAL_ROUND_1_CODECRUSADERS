@@ -24,7 +24,9 @@ This project is built under the problem statment `Building a Modern Version of S
 - **Authentication**: It provides user authentication via `email & password` which makes it a secure & user friendly app
 - **Dashboard**: An user is granted a dashboard where he can make spreadsheet files & grant permissions for collaboration
 - **Spreadsheet Editor**: Platform provides a beautiful spreadsheet editor for editing files with all core functionalities of a editor
+- **Core Spreadsheet Functionality**: Our editor provides all core functionalities of editing a spreadsheet
 - **Real-time updates**: All users using the same spreadsheet file at the same time will get live editing updates via `WebSockets`
+- **Responsive User Interface**: The platform is majorly responive to screen sizes and devices
 
 ## Tech Stack
 
