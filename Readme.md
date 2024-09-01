@@ -14,8 +14,8 @@ This README provides an overview of the project, including team details, relevan
 - **Anshul Anand** - 2023UCB6004 - [@AnshulAnand](https://github.com/AnshulAnand)
 - **Abdul Raqeeb** - 2023UCB6048 - [@Raqeeb786](https://github.com/Raqeeb786)
 - **Aryan** - 2023UCB6021 - [@A-Y-S-16](https://github.com/A-Y-S-16)
-- **Abhisekh** - 2023UCB6054 - [@USERNAME](https://github.com/USERNAME)
-- **Divya** - 2023UCB6023 - [@USERNAME](https://github.com/USERNAME)
+- **Abhisekh** - 2023UCB6054 - [@abhishekk-04](https://github.com/abhishekk-04)
+- **Divya** - 2023UCB6023 - [@divya123-haves](https://github.com/divya123-haves)
 
 ## Project Details
 
@@ -96,7 +96,7 @@ npm run dev
 
 - **Internal Presentation:** [Internal Presentation](URL TO PPT UPLOADED TO GITHUB)
 - **Final SIH Presentation:** [Final SIH Presentation](URL TO PPT UPLOADED TO GITHUB)
-- **Video Demonstration:** [Watch Video](UNLISTED YOUTUBE LINK)
+- **Video Demonstration:** [Watch Video](https://youtu.be/2ii-CUJYWzM?si=VnFh0mYLvzeGncDH)
 - **Live Deployment:** [View Deployment](DEPLOYED LINK IF ANY)
-- **Source Code:** [GitHub Repository](GITHUB LINK TO THE REPO)
+- **Source Code:** [GitHub Repository](code)
 - **Additional Resources:** [Other Relevant Links](ANY OTHER RELEVANT LINKS)
