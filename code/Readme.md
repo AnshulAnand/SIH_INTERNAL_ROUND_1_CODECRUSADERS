@@ -1,6 +1,6 @@
 ## Tasks Accomplished
 
-- [x]**Authentication**: It provides user authentication via `email & password` which makes it a secure & user friendly app
+- [x] **Authentication**: It provides user authentication via `email & password` which makes it a secure & user friendly app
 - [x] **Spreadsheet Editor**: Platform provides a beautiful spreadsheet editor for editing files with all core functionalities of a editor
 - [x] **Core Spreadsheet Functionality**: Our editor provides all core functionalities of editing a spreadsheet
 - [x] **Real-time updates**: All users using the same spreadsheet file at the same time will get live editing updates via `WebSockets`
