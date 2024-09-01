@@ -12,10 +12,10 @@ This README provides an overview of the project, including team details, relevan
 
 - **Akhilesh Kumar** - 2023UCB6007 - [@Akhilesh6007](https://github.com/Akhilesh6007)
 - **Anshul Anand** - 2023UCB6004 - [@AnshulAnand](https://github.com/AnshulAnand)
-- **Abdul Raqeeb** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
-- **Aryan** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
-- **Abhisekh** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
-- **Divya** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
+- **Abdul Raqeeb** - 2023UCB6048 - [@Raqeeb786](https://github.com/Raqeeb786)
+- **Aryan** - 2023UCB6021 - [@A-Y-S-16](https://github.com/A-Y-S-16)
+- **Abhisekh** - 2023UCB6054 - [@USERNAME](https://github.com/USERNAME)
+- **Divya** - 2023UCB6023 - [@USERNAME](https://github.com/USERNAME)
 
 ## Project Details
 
