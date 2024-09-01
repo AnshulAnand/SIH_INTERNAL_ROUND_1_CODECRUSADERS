@@ -94,8 +94,8 @@ npm run dev
 
 ## Project Links
 
-- **Internal Presentation:** [Internal Presentation](URL TO PPT UPLOADED TO GITHUB)
-- **Final SIH Presentation:** [Final SIH Presentation](URL TO PPT UPLOADED TO GITHUB)
+- **Internal Presentation:** [Internal Presentation](files/Internal_PPT_CODECRUSADERS.pdf)
+- **Final SIH Presentation:** [Final SIH Presentation](files/SIH_PPT_CODECRUSADERS.pdf)
 - **Video Demonstration:** [Watch Video](https://youtu.be/2ii-CUJYWzM?si=VnFh0mYLvzeGncDH)
 - **Live Deployment:** [View Deployment](DEPLOYED LINK IF ANY)
 - **Source Code:** [GitHub Repository](code)

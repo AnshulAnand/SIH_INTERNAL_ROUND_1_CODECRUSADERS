@@ -227,7 +227,7 @@ function Home() {
           <ul className='flex flex-wrap items-center mt-3 text-sm font-medium text-gray-400 sm:mt-0'>
             <li>
               <a
-                href='https://github.com/AnshulAnand/spreadsheet-editor-frontend'
+                href='https://github.com/AnshulAnand/SIH_INTERNAL_ROUND_1_CODECRUSADERS'
                 target='_blank'
                 className='hover:underline me-4 md:me-6'
               >
@@ -236,7 +236,7 @@ function Home() {
             </li>
             <li>
               <a
-                href='https://github.com/AnshulAnand/spreadsheet-editor-frontend'
+                href='https://github.com/AnshulAnand/SIH_INTERNAL_ROUND_1_CODECRUSADERS'
                 target='_blank'
                 className='hover:underline me-4 md:me-6'
               >
@@ -245,7 +245,7 @@ function Home() {
             </li>
             <li>
               <a
-                href='https://github.com/AnshulAnand/spreadsheet-editor-frontend'
+                href='https://github.com/AnshulAnand/SIH_INTERNAL_ROUND_1_CODECRUSADERS'
                 target='_blank'
                 className='hover:underline me-4 md:me-6'
               >
@@ -254,7 +254,7 @@ function Home() {
             </li>
             <li>
               <a
-                href='https://github.com/AnshulAnand/spreadsheet-editor-frontend'
+                href='https://github.com/AnshulAnand/SIH_INTERNAL_ROUND_1_CODECRUSADERS'
                 target='_blank'
                 className='hover:underline'
               >

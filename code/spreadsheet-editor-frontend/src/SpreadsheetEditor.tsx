@@ -162,6 +162,13 @@ export default function SpreadsheetEditor() {
         Ask permission to edit this from owner or edit permissions in the
         dashboard if you are the owner
       </div>
+      <div
+        className={`text-green-700 bg-green-200 border border-green-500 rounded-md text-center p-4 my-4 mx-4`}
+      >
+        <strong>Note: </strong>After done editing, click on an empty cell (this
+        lets editor know that you are done with editing) and then click on the
+        save button to save your data to DB!
+      </div>
       <SpreadsheetComponent ref={spreadsheetRef}>
         <SheetsDirective>
           <SheetDirective>
