@@ -1,3 +1,5 @@
+/* eslint-disable react-hooks/exhaustive-deps */
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import { useEffect, useState, FormEvent } from 'react'
 import axios from './api/axios'
 import { Link } from 'react-router-dom'
@@ -28,6 +30,7 @@ function Dashboard() {
           return
         }
         setUser(data.data.message)
+        console.log(user)
         setPermissions(data.data.message.permissions)
       })
       .catch(err => {
@@ -82,6 +85,7 @@ function Dashboard() {
         }
       )
       .then(res => {
+        console.log(res)
         setFileName('')
         axios
           .get('/files/all', { withCredentials: true })

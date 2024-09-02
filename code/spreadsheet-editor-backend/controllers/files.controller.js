@@ -3,7 +3,7 @@ const UserModel = require('../models/user.model')
 const FileModel = require('../models/file.model')
 
 const io = require('socket.io')(3001, {
-  cors: { origin: ['http://localhost:5173'] },
+  cors: { origin: [process.env.ORIGIN] },
 })
 
 io.on('connection', socket => {

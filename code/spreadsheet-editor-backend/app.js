@@ -7,7 +7,7 @@ const cookieParser = require('cookie-parser')
 
 connectDB()
 const corsOptions = {
-  origin: 'http://localhost:5173',
+  origin: process.env.ORIGIN || 'http://localhost:5173',
   credentials: true, //access-control-allow-credentials: true
   optionSuccessStatus: 200,
 }

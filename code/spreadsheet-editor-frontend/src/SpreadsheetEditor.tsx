@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/ban-ts-comment */
 import { io } from 'socket.io-client'
 import { useParams } from 'react-router-dom'
 import './App.css'
@@ -89,6 +90,7 @@ export default function SpreadsheetEditor() {
   socket.on('unauthorized', message => {
     if (loading) return
     console.log(user)
+    // @ts-expect-error
     if (user && user._id && message.id === user._id) {
       setHidden('')
       setFlag(true)
@@ -107,6 +109,7 @@ export default function SpreadsheetEditor() {
       spreadsheet.openFromJson({ file: res.data })
       setFlag(false)
     })
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [flag])
 
   // const data: DataManager = new DataManager({
@@ -119,12 +122,15 @@ export default function SpreadsheetEditor() {
     setHidden('hidden')
     const spreadsheet = spreadsheetRef.current!
     spreadsheet?.saveAsJson().then(data => {
+      // @ts-ignore
       console.log(data.jsonObject)
+      // @ts-ignore
       setFile(data.jsonObject)
       console.log(file)
       axios
         .post(
           '/files',
+          // @ts-ignore
           { data: JSON.stringify(data.jsonObject), id },
           {
             headers: {
@@ -135,6 +141,7 @@ export default function SpreadsheetEditor() {
         )
         .then(res => {
           console.log(res)
+          // @ts-ignore
           socket.emit('update-file', user._id)
         })
 
