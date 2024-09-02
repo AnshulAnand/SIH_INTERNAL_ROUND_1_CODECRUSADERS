@@ -34,6 +34,8 @@ Follow these steps to run the project locally
 
 ```
 git clone https://github.com/AnshulAnand/SIH_INTERNAL_ROUND_1_CODECRUSADERS.git
+
+cd SIH_INTERNAL_ROUND_1_CODECRUSADERS
 ```
 
 - change directory in code

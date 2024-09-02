@@ -48,6 +48,8 @@ Follow the these steps in order to run this project locally on your machine
 
 ```
 git clone https://github.com/AnshulAnand/SIH_INTERNAL_ROUND_1_CODECRUSADERS.git
+
+cd SIH_INTERNAL_ROUND_1_CODECRUSADERS
 ```
 
 - change directory in code
@@ -97,6 +99,6 @@ npm run dev
 - **Internal Presentation:** [Internal Presentation](files/Internal_PPT_CODECRUSADERS.pdf)
 - **Final SIH Presentation:** [Final SIH Presentation](files/SIH_PPT_CODECRUSADERS.pdf)
 - **Video Demonstration:** [Watch Video](https://youtu.be/2ii-CUJYWzM?si=VnFh0mYLvzeGncDH)
-- **Live Deployment:** [View Deployment](DEPLOYED LINK IF ANY)
+- **Live Deployment:** [View Deployment (The deployment version is buggy due to Web Sockets not being able to work properly among the 3 deployed PORTS, please run the project locally to see it's full working & potential)](https://sih-internal-round-1-codecrusaders.onrender.com)
 - **Source Code:** [GitHub Repository](code)
 - **Additional Resources:** [Other Relevant Links](ANY OTHER RELEVANT LINKS)
