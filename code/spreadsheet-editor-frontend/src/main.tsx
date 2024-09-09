@@ -8,9 +8,7 @@ import SpreadsheetEditor from './SpreadsheetEditor.tsx'
 import Signup from './Signup.tsx'
 import Dashboard from './Dashboard.tsx'
 
-registerLicense(
-  'Ngo9BigBOggjHTQxAR8/V1NCaF1cWWhAYVFwWmFZfVpgcl9GZFZUQGYuP1ZhSXxXdk1hXn9WdXRUQmdaWUY='
-)
+registerLicense(import.meta.env.VITE_LICENSE_KEY)
 
 const router = createBrowserRouter([
   {
