@@ -17,7 +17,7 @@ This README provides an overview of the project, including team details, relevan
 - **Abhisekh** - 2023UCB6054 - [@abhishekk-04](https://github.com/abhishekk-04)
 - **Divya** - 2023UCB6023 - [@divya123-haves](https://github.com/divya123-haves)
 
-## Project Details
+## Project details
 
 This project is built under the problem statment `Building a Modern Version of SocialCalc using Node.js, Go, or Django` provided for SIH round of internal hackathon. It aims at providing a platform where people can make & edit spreadsheets and collaborate with others while doing so. Here are the key details of our project:
 
